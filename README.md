@@ -1,2 +1,2 @@
 # Algorithm
-mastering Algorithm
+process of mastering Algorithm
