@@ -1,2 +1,0 @@
-# Algorithm
-- Computer Science Knowledge
