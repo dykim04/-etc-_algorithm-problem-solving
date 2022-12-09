@@ -1,3 +1,4 @@
+BJ = Baekjoon online judge
 < Implementation > 
 2557 check
 1000 check
