@@ -1,10 +1,5 @@
 #include <unistd.h>
 
-int main()
-{
-	print_comb();
-}
-
 void	print_comb(void)
 {
 	char	arr[3];
@@ -33,3 +28,7 @@ void	dfs(int start, int level, char comb[])
 	}
 }
 
+int main()
+{
+	print_comb();
+}
